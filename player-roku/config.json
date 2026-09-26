@@ -1,0 +1,7 @@
+﻿{
+  "serverURLs": ["http://playermx.com:80", "http://lg.aztencoding.online/"],
+  "focusColor": "0xE50914FF",
+  "backgroundColor": "0x141414FF",
+  "mensaje": "",
+  "phpUrls": {}
+}
