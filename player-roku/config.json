@@ -1,5 +1,5 @@
 {
-  "serverURLs": ["https://playermx.com:80"],
+  "serverURLs": ["https://playermx.com:80", "http://playermx.com:80"],
   "focusColor": "0xE50914FF",
   "backgroundColor": "0x141414FF",
   "mensaje": "",
