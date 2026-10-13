@@ -1,6 +1,6 @@
 {
   "serverURLs": ["http://playermx.com:80"],
-  "focusColor": "0xE50914FF",
+  "focusColor": "0xFFD4AF37",
   "backgroundColor": "0x141414FF",
   "mensaje": "",
   "phpUrls": {}
