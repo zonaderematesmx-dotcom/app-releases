@@ -1,0 +1,7 @@
+{
+  "serverURLs": ["http://139.99.149.195/"],
+  "focusColor": "0xE50914FF",
+  "backgroundColor": "0x141414FF",
+  "mensaje": "",
+  "phpUrls": {"perfiles": "https://tanex-streaming-1.onrender.com/roku/perfiles.php"}
+}
