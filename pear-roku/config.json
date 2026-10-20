@@ -1,5 +1,5 @@
 {
-  "serverURLs": ["http://playermx.com:80"],
+  "serverURLs": ["http://superflash.ovh:80", "https://superflash.ovh:443"],
   "focusColor": "0xFFD4AF37",
   "backgroundColor": "0x141414FF",
   "mensaje": "",
